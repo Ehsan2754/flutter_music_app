@@ -1,10 +1,10 @@
-# Flutter Music App
+# Flutter Laboratory Experiment Set Application
 
-First Open Source Flutter based dribbblel Design Music Player.
+Open Source Flutter based dribbblel Design Laboratory Experiment Set Application.
 
 #### logo
 
-<img src="screenshots/icon-1024.png" height="200em"/>
+ > will be added
 
 
 #### free design
@@ -19,7 +19,7 @@ https://material.io/resources/icons/?search=d&style=baseline
 
 http://icon.wuruihong.com/
 
-## Features(Android & iOS)
+<!-- ## Features(Android & iOS)
 
   * [x] search online songs (Require Network Permission)
   * [x] Beautiful UI with multiple themes includes light theme and dark theme
@@ -35,11 +35,11 @@ http://icon.wuruihong.com/
   * [x] onComplete
   * [x] onDuration / onCurrentPosition
   * [x] Favorite
-  * [x] Download
+  * [x] Download -->
 
 ### Show some ❤️ and star the repo to support the project
 
-
+<!-- 
 
 ## Screenshots(iOS)
 
@@ -58,7 +58,7 @@ http://icon.wuruihong.com/
 ### Screenshots(Android)
 
 <img src="screenshots/image-20200301225614146.png" height="300em" /> <img src="screenshots/image-20200301225706637.png" height="300em" /> <img src="screenshots/image-20200301225726100.png" height="300em" /> <img src="screenshots/image-20200301225840952.png" height="300em" /> 
-
+ -->
 
 
 ### Add this to ios Info.plist allow https and background
@@ -74,11 +74,11 @@ http://icon.wuruihong.com/
     <true/>
     </dict>
 ```
-
+<!-- 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of ☕️
 
 <img src="https://tva1.sinaimg.cn/large/00831rSTgy1gcemhp0nxyj30e00e077o.jpg" height="200em" /> 
-
+ -->
 # License
 
 ```
